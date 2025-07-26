@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 25rem;
+    margin: 0 auto 0 auto;
+    background: #ff08d6;
+    padding: 1rem;
+}
+#from ,#end{
+    margin: 1rem;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+}
+#btn{
+    width: 6rem;
+    padding: 0.5rem;
+    background: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+  
+}
+h1{
+    font-size: 20px;
+}
